@@ -1,0 +1,12 @@
+{
+    "prefix": "!",
+    "token": "MTIzNzAyOTQzMzM0NTQ0NTkxOA.Gj4UoY.aXAvtARAgtq5hgB6CqsizyZSvt-8dDkmXoTS54",
+    "clientID": "1237029433345445918",
+    "guildID": "1212329304982294548",
+    "youtubeCookie": "",
+    "spotify_api": {
+        "enabled": false,
+        "clientId": "2d2becbcf53a4d778770758c6f9d4a67",
+        "clientSecret": "3047e7fbded34ff887a109cd47877338"
+    }
+}
